@@ -10,8 +10,7 @@
 
 
 import propTypes from 'prop-types'
-import { Component } from 'react'
-
+ 
 function Student(props){
     return(
         <div className="student">
