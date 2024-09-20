@@ -38,7 +38,9 @@ function List(){
                                             </li>);
     // react would like a unique key for each item for keeping track of items being inserted and removed
 
-    return(<ol>{listItems}</ol>);
+    return(
+    <>
+    <ol>{listItems}</ol></>);
 }
 
 export default List
