@@ -7,7 +7,7 @@
                         // do some thing when state of value changes
 
 
-// useEffect() is like sidecode writing on the function in the below it canbe callback,anonymous funciton or arrow function
+//  useEffect() is like sidecode writing on the function in the below it canbe callback,anonymous funciton or arrow function
 
 
 //  * useEffect(function, [dependencies])
